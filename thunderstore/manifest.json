@@ -1,0 +1,9 @@
+{
+  "name": "BetterNetcode",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/kamikaze-skynet/BetterNetcode",
+  "description": "Less lag for non-host players in busy fights: raises Steam's 256 KB/s send limit and buffer, sends without delay, and adds a network overlay (F9). Works with MoreWizards.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.788"
+  ]
+}
